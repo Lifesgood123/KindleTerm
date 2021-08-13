@@ -62,7 +62,7 @@ public class KindleTerminal
 
     // ------------------------------- Constants
     private static final int ROT_NORMAL = 0;
-    private static final int ROT_90 = 2;
+    private static final int ROT_90 = 1;
     private static final int FONT_SIZE = 18;
 
     // If more than UPDATE_THRESHOLD paint operations are needed the
